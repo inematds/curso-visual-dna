@@ -1,0 +1,784 @@
+[
+  {
+    "titulo": "Dê uma função à aparência",
+    "entrega": "ligar uma mensagem, uma sensação desejada e uma evidência visual",
+    "dor": "Uma imagem bonita pode esconder o serviço. Comece pela ideia que o público precisa entender.",
+    "antes": "Deixar a oficina com uma aparência sofisticada.",
+    "depois": "Mostrar o reparo, explicar o cuidado e convidar para avaliar a peça.",
+    "campos": [
+      "Mensagem: preservar uma peça querida",
+      "Sensação desejada: cuidado",
+      "Evidência: detalhe real do reparo"
+    ],
+    "passos": [
+      "Abra uma nota chamada DNA visual. Escreva o serviço em uma frase.",
+      "Preencha mensagem, sensação desejada e evidência possível.",
+      "Acrescente uma ação para o público e confira se a evidência existe."
+    ],
+    "pronto": "as três linhas e uma ação estão registradas, com a evidência identificada",
+    "q": "Uma imagem gerada de costura comprova um conserto realizado pela oficina?",
+    "opcoes": [
+      "Sim, quando as cores combinam com a marca",
+      "Não; ela ilustra, mas o serviço exige registro real",
+      "Sim, quando a imagem parece uma fotografia"
+    ],
+    "correta": 1,
+    "observacao": "Isa e Célia examinam um remendo aparente. A cena gerada apresenta o caso fictício; não documenta um serviço real.",
+    "ex1": "Isa troca o pedido de sofisticação por uma fotografia que deixe o reparo visível.",
+    "ex2": "Célia distingue a imagem ilustrativa da foto de um trabalho realmente entregue.",
+    "calma": "Use o caso fictício se ainda não tem marca. Escreva hipótese ao lado da evidência que precisará produzir.",
+    "confira": "Mostrar o reparo, explicar o cuidado e convidar para avaliar a peça.",
+    "tarefa": "Dê uma função à aparência",
+    "resumo": [
+      "Mensagem: preservar uma peça querida",
+      "Sensação desejada: cuidado",
+      "Evidência: detalhe real do reparo"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Filas e geração de imagens ficam fora desse tempo.",
+    "molde": "Projeto: Fio Claro ou minha marca\nAula: Dê uma função à aparência\nMensagem: preservar uma peça querida — <sua decisão>\nSensação desejada: cuidado — <sua decisão>\nEvidência: detalhe real do reparo — <sua decisão>\nEvidência salva: <arquivo ou anotação>\nAjuste: <próximo passo>",
+    "cartoes": [
+      [
+        "Uma imagem gerada de costura comprova um conserto realizado pela oficina?",
+        "Não; ela ilustra, mas o serviço exige registro real"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Mostrar o reparo, explicar o cuidado e convidar para avaliar a peça."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "as três linhas e uma ação estão registradas, com a evidência identificada"
+      ]
+    ]
+  },
+  {
+    "titulo": "Resuma a marca em cinco linhas",
+    "entrega": "escrever um núcleo de marca que oriente escolhas",
+    "dor": "Adjetivos soltos produzem decisões diferentes em cada peça. Uma ficha curta evita recomeçar a conversa.",
+    "antes": "Marca moderna, premium, única e memorável.",
+    "depois": "Reparo aparente para roupas queridas, com detalhe do processo e avaliação da peça.",
+    "campos": [
+      "Público: pessoas que querem manter roupas queridas",
+      "Necessidade: reparar desgaste",
+      "Oferta: avaliação e reparo aparente",
+      "Diferença proposta: explicar o reparo como parte da história",
+      "Evidência: processo real documentado, ainda a produzir"
+    ],
+    "passos": [
+      "Escreva público, necessidade, oferta, diferença e evidência em cinco linhas.",
+      "Circule uma afirmação que ainda não consegue demonstrar. Reescreva como hipótese.",
+      "Leia a ficha e escreva uma decisão visual que ela permite tomar."
+    ],
+    "pronto": "há cinco linhas, uma hipótese identificada e uma decisão visual justificada",
+    "q": "A oferta mudou de reparo aparente para ajuste de medidas. O que revisar primeiro?",
+    "opcoes": [
+      "O tamanho da assinatura no rodapé da peça",
+      "A cor de destaque, mantendo a mensagem anterior",
+      "O núcleo da oferta antes de adaptar as peças"
+    ],
+    "correta": 2,
+    "observacao": "A jaqueta, o remendo e as ferramentas apresentam uma oferta concreta. A imagem não representa o resultado de uma pesquisa de mercado.",
+    "ex1": "Isa consegue escolher uma foto de detalhe porque a ficha pede explicação do reparo.",
+    "ex2": "Célia percebe que ajustes de medidas exigem outras fotos e outra promessa.",
+    "calma": "Cada linha pode ter uma frase simples. Se faltarem dados, marque a hipótese e siga com o caso fictício.",
+    "confira": "Reparo aparente para roupas queridas, com detalhe do processo e avaliação da peça.",
+    "tarefa": "Resuma a marca em cinco linhas",
+    "resumo": [
+      "Público e necessidade: roupas queridas com desgaste",
+      "Oferta e diferença: reparo aparente explicado",
+      "Evidência: processo real documentado"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Filas e geração de imagens ficam fora desse tempo.",
+    "molde": "Público:\nNecessidade:\nOferta:\nDiferença observável:\nEvidência disponível ou pendente:\nDecisão visual permitida pela ficha:",
+    "cartoes": [
+      [
+        "A oferta mudou de reparo aparente para ajuste de medidas. O que revisar primeiro?",
+        "O núcleo da oferta antes de adaptar as peças"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Reparo aparente para roupas queridas, com detalhe do processo e avaliação da peça."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "há cinco linhas, uma hipótese identificada e uma decisão visual justificada"
+      ]
+    ]
+  },
+  {
+    "titulo": "Observe a percepção sem induzir a resposta",
+    "entrega": "preparar uma pergunta neutra e separar observação de hipótese",
+    "dor": "Perguntar se uma marca parece cuidadosa já entrega a resposta desejada. Procure saber o que foi entendido.",
+    "antes": "Você concorda que nossa marca transmite cuidado?",
+    "depois": "O que este lugar faz, e qual detalhe fez você pensar nisso?",
+    "campos": [
+      "Pergunta: aberta e sem adjetivo sugerido",
+      "Registro: fala separada da interpretação",
+      "Estado: coleta realizada ou pendente"
+    ],
+    "passos": [
+      "Escreva duas perguntas neutras para mostrar uma peça.",
+      "Crie campos separados para fala, interpretação e próximo teste.",
+      "Planeje com quem conversar e quando. Marque coleta pendente se ainda não ocorreu."
+    ],
+    "pronto": "o roteiro tem duas perguntas neutras e os campos distinguem fatos de hipóteses",
+    "q": "Uma pessoa diz que a oficina vende roupas novas. Como registrar?",
+    "opcoes": [
+      "Guardar a fala e testar se o reparo está pouco visível",
+      "Concluir que todo o público rejeita consertar roupas",
+      "Trocar a fala por uma frase mais favorável à marca"
+    ],
+    "correta": 0,
+    "observacao": "Célia conversa com uma pessoa sobre a jaqueta. É uma ilustração da situação de escuta, sem depoimento ou pesquisa realizada.",
+    "ex1": "Isa escreve a fala antes de sugerir uma mudança de fotografia.",
+    "ex2": "Célia prepara as perguntas e deixa a coleta marcada como pendente até conversar.",
+    "calma": "Não precisa encontrar alguém agora. Prepare o roteiro; uma conversa imaginada não conta como resposta coletada.",
+    "confira": "O que este lugar faz, e qual detalhe fez você pensar nisso?",
+    "tarefa": "Observe a percepção sem induzir a resposta",
+    "resumo": [
+      "Pergunta: aberta e sem adjetivo sugerido",
+      "Registro: fala separada da interpretação",
+      "Estado: coleta realizada ou pendente"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Filas e geração de imagens ficam fora desse tempo.",
+    "molde": "Projeto: Fio Claro ou minha marca\nAula: Observe a percepção sem induzir a resposta\nPergunta: aberta e sem adjetivo sugerido — <sua decisão>\nRegistro: fala separada da interpretação — <sua decisão>\nEstado: coleta realizada ou pendente — <sua decisão>\nEvidência salva: <arquivo ou anotação>\nAjuste: <próximo passo>",
+    "cartoes": [
+      [
+        "Uma pessoa diz que a oficina vende roupas novas. Como registrar?",
+        "Guardar a fala e testar se o reparo está pouco visível"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "O que este lugar faz, e qual detalhe fez você pensar nisso?"
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "o roteiro tem duas perguntas neutras e os campos distinguem fatos de hipóteses"
+      ]
+    ]
+  },
+  {
+    "titulo": "Transforme três pilares em escolhas visíveis",
+    "entrega": "definir três pilares com função, sensação e diferença",
+    "dor": "Palavras como autêntico ou humano permitem quase qualquer imagem. Dê a cada palavra uma consequência visível.",
+    "antes": "Usar imagens humanas, bonitas e diferentes.",
+    "depois": "Mostrar textura do reparo, preservar contexto da roupa e destacar uma ação.",
+    "campos": [
+      "Cuidado: mostrar o acabamento",
+      "Continuidade: manter a roupa reconhecível",
+      "Clareza: escolher um foco principal"
+    ],
+    "passos": [
+      "Escolha três pilares ligados à ficha de cinco linhas.",
+      "Escreva uma escolha visível e uma recusa para cada pilar.",
+      "Aplique os três pilares a uma imagem ou conjunto. Registre uma decisão para cada pilar."
+    ],
+    "pronto": "os três pilares têm escolha, recusa e uma decisão de aplicação registrada",
+    "q": "Qual regra traduz cuidado em algo conferível?",
+    "opcoes": [
+      "Deixar toda peça mais emocionante e mais autoral",
+      "Manter os pontos do reparo visíveis na fotografia",
+      "Usar sempre o efeito mais recente do aplicativo"
+    ],
+    "correta": 1,
+    "observacao": "Três estudos de detalhes mostram remendo, pontos e tecido. Para julgar continuidade, acrescente uma foto aberta: esta figura não mostra a roupa inteira.",
+    "ex1": "Isa recusa um desfoque que esconde os pontos, mesmo gostando da atmosfera.",
+    "ex2": "Célia pede uma foto aberta quando o detalhe não permite reconhecer a roupa.",
+    "calma": "Troque um adjetivo por algo que possa apontar na tela: textura, distância, luz, espaço ou ordem.",
+    "confira": "Mostrar textura do reparo, preservar contexto da roupa e destacar uma ação.",
+    "tarefa": "Transforme três pilares em escolhas visíveis",
+    "resumo": [
+      "Cuidado: mostrar o acabamento",
+      "Continuidade: manter a roupa reconhecível",
+      "Clareza: escolher um foco principal"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Filas e geração de imagens ficam fora desse tempo.",
+    "molde": "Pilar 1: <nome>\nEscolha visível:\nRecusa:\nAplicação observada:\n\nPilar 2: <nome>\nEscolha visível:\nRecusa:\nAplicação observada:\n\nPilar 3: <nome>\nEscolha visível:\nRecusa:\nAplicação observada:",
+    "cartoes": [
+      [
+        "Qual regra traduz cuidado em algo conferível?",
+        "Manter os pontos do reparo visíveis na fotografia"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Mostrar textura do reparo, preservar contexto da roupa e destacar uma ação."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "os três pilares têm escolha, recusa e uma decisão de aplicação registrada"
+      ]
+    ]
+  },
+  {
+    "titulo": "Encontre uma diferença sem copiar a concorrência",
+    "entrega": "registrar padrões e uma hipótese de diferença em três referências",
+    "dor": "Ser diferente em tudo pode dificultar o reconhecimento do serviço. Primeiro descubra o que se repete e por quê.",
+    "antes": "Copiar a peça que parece ter mais sucesso.",
+    "depois": "Registrar padrões visíveis e testar uma diferença ligada à oferta.",
+    "campos": [
+      "Amostra: três referências com endereço e data",
+      "Padrão: característica realmente observada",
+      "Hipótese: diferença que preserva a compreensão"
+    ],
+    "passos": [
+      "Abra três referências públicas ou três peças próprias da mesma categoria.",
+      "Registre dois elementos de cada uma, com origem e data.",
+      "Escreva um padrão e uma diferença para testar, sem afirmar que ela vende mais."
+    ],
+    "pronto": "três referências estão identificadas e a diferença foi registrada como hipótese",
+    "q": "Você vê muitas fotos de roupas prontas. Qual conclusão é sustentada?",
+    "opcoes": [
+      "Fotos de processo sempre venderão mais nessa categoria",
+      "Nenhuma dessas marcas realiza reparos de qualidade",
+      "A amostra prioriza peças prontas; processo merece um teste"
+    ],
+    "correta": 2,
+    "observacao": "O mural compara grupos de materiais e cores. As imagens são referências fictícias; não representam marcas pesquisadas.",
+    "ex1": "Isa identifica uma repetição na amostra sem chamar isso de regra de todo o mercado.",
+    "ex2": "Célia busca um modo simples de mostrar o processo com a luz que já tem.",
+    "calma": "Se não conseguir pesquisar agora, use três peças próprias e deixe claro o limite da amostra.",
+    "confira": "Registrar padrões visíveis e testar uma diferença ligada à oferta.",
+    "tarefa": "Encontre uma diferença sem copiar a concorrência",
+    "resumo": [
+      "Amostra: três referências com endereço e data",
+      "Padrão: característica realmente observada",
+      "Hipótese: diferença que preserva a compreensão"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Filas e geração de imagens ficam fora desse tempo.",
+    "molde": "Projeto: Fio Claro ou minha marca\nAula: Encontre uma diferença sem copiar a concorrência\nAmostra: três referências com endereço e data — <sua decisão>\nPadrão: característica realmente observada — <sua decisão>\nHipótese: diferença que preserva a compreensão — <sua decisão>\nEvidência salva: <arquivo ou anotação>\nAjuste: <próximo passo>",
+    "cartoes": [
+      [
+        "Você vê muitas fotos de roupas prontas. Qual conclusão é sustentada?",
+        "A amostra prioriza peças prontas; processo merece um teste"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Registrar padrões visíveis e testar uma diferença ligada à oferta."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "três referências estão identificadas e a diferença foi registrada como hipótese"
+      ]
+    ]
+  },
+  {
+    "titulo": "Monte um painel que ensina a escolher",
+    "entrega": "organizar seis referências em três grupos com legenda",
+    "dor": "Um painel cheio de imagens bonitas pode apontar direções opostas. Cada referência precisa ter uma função.",
+    "antes": "Reunir vinte fotos sem explicar o motivo de cada uma.",
+    "depois": "Separar assunto, luz e composição, com duas referências comentadas por grupo.",
+    "campos": [
+      "Assunto: roupa inteira e detalhe",
+      "Luz: textura visível sem brilho excessivo",
+      "Composição: espaço para uma chamada"
+    ],
+    "passos": [
+      "Crie uma página com os títulos assunto, luz e composição.",
+      "Insira duas referências por grupo e registre suas origens.",
+      "Escreva o que aproveitar e o que evitar em cada referência."
+    ],
+    "pronto": "o painel contém seis referências, três grupos e seis legendas úteis",
+    "q": "Qual legenda ajuda outra pessoa a usar a referência?",
+    "opcoes": [
+      "Preserve a textura com luz lateral suave",
+      "Faça algo elegante, incrível e muito diferente",
+      "Use uma aparência profissional como esta imagem"
+    ],
+    "correta": 0,
+    "observacao": "As três faixas ilustram agrupamento de referências. A figura tem três amostras por faixa; no exercício, selecione duas referências por grupo, totalizando seis.",
+    "ex1": "Isa separa a luz da composição para não copiar uma fotografia inteira.",
+    "ex2": "Célia fotografa uma amostra própria quando falta uma referência com origem clara.",
+    "calma": "Pode começar com fotos simples do seu celular. A legenda precisa explicar a escolha, não elogiar a imagem.",
+    "confira": "Separar assunto, luz e composição, com duas referências comentadas por grupo.",
+    "tarefa": "Monte um painel que ensina a escolher",
+    "resumo": [
+      "Assunto: roupa inteira e detalhe",
+      "Luz: textura visível sem brilho excessivo",
+      "Composição: espaço para uma chamada"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Filas e geração de imagens ficam fora desse tempo.",
+    "molde": "Projeto: Fio Claro ou minha marca\nAula: Monte um painel que ensina a escolher\nAssunto: roupa inteira e detalhe — <sua decisão>\nLuz: textura visível sem brilho excessivo — <sua decisão>\nComposição: espaço para uma chamada — <sua decisão>\nEvidência salva: <arquivo ou anotação>\nAjuste: <próximo passo>",
+    "cartoes": [
+      [
+        "Qual legenda ajuda outra pessoa a usar a referência?",
+        "Preserve a textura com luz lateral suave"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Separar assunto, luz e composição, com duas referências comentadas por grupo."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "o painel contém seis referências, três grupos e seis legendas úteis"
+      ]
+    ]
+  },
+  {
+    "titulo": "Dê uma função a cada elemento visual",
+    "entrega": "preencher um mapa com seis elementos e suas hipóteses de significado",
+    "dor": "A mesma cor pode comunicar coisas diferentes conforme a situação. Evite um dicionário de emoções universais.",
+    "antes": "Azul gera confiança em todas as pessoas.",
+    "depois": "Azul profundo será usado no texto; a leitura e a percepção serão conferidas.",
+    "campos": [
+      "Mapa: seis elementos com função",
+      "Associação: hipótese contextual",
+      "Teste: observação que pode contrariar a escolha"
+    ],
+    "passos": [
+      "Crie seis linhas com elemento, função, associação desejada e teste.",
+      "Preencha fundo, texto, destaque, forma, textura e fotografia.",
+      "Marque uma associação que precisa ser conferida com o público."
+    ],
+    "pronto": "o mapa tem seis linhas e cada uma inclui uma função e um teste",
+    "q": "O que uma cor escolhida permite afirmar antes do teste?",
+    "opcoes": [
+      "Que toda pessoa sentirá a mesma emoção ao vê-la",
+      "Qual papel ela terá no sistema visual proposto",
+      "Que a marca já conquistou confiança no mercado"
+    ],
+    "correta": 1,
+    "observacao": "Cru, azul profundo e ferrugem aparecem como materiais. A combinação mostra papéis possíveis, sem provar uma reação emocional.",
+    "ex1": "Isa separa azul para texto de ferrugem para pequenos detalhes.",
+    "ex2": "Célia retira um ornamento que competia com o reparo sem explicar o serviço.",
+    "calma": "Use frases curtas. Se não souber a associação, escreva hipótese em aberto e descreva apenas a função.",
+    "confira": "Azul profundo será usado no texto; a leitura e a percepção serão conferidas.",
+    "tarefa": "Dê uma função a cada elemento visual",
+    "resumo": [
+      "Mapa: seis elementos com função",
+      "Associação: hipótese contextual",
+      "Teste: observação que pode contrariar a escolha"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Filas e geração de imagens ficam fora desse tempo.",
+    "molde": "Projeto: Fio Claro ou minha marca\nAula: Dê uma função a cada elemento visual\nMapa: seis elementos com função — <sua decisão>\nAssociação: hipótese contextual — <sua decisão>\nTeste: observação que pode contrariar a escolha — <sua decisão>\nEvidência salva: <arquivo ou anotação>\nAjuste: <próximo passo>",
+    "cartoes": [
+      [
+        "O que uma cor escolhida permite afirmar antes do teste?",
+        "Qual papel ela terá no sistema visual proposto"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Azul profundo será usado no texto; a leitura e a percepção serão conferidas."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "o mapa tem seis linhas e cada uma inclui uma função e um teste"
+      ]
+    ]
+  },
+  {
+    "titulo": "Faça a mensagem sobreviver ao tamanho pequeno",
+    "entrega": "conferir hierarquia e contraste de uma chamada",
+    "dor": "Uma peça pode funcionar ampliada e ficar ilegível no celular. Teste no tamanho em que será vista.",
+    "antes": "Escolher letras finas e claras apenas porque parecem elegantes.",
+    "depois": "Separar três níveis de leitura e medir o contraste do texto com o fundo.",
+    "campos": [
+      "Ordem: chamada, explicação e ação",
+      "Contraste: texto comum com alvo mínimo de 4,5 para 1",
+      "Uso: leitura no tamanho real do celular"
+    ],
+    "passos": [
+      "Use o exemplo da aula ou crie uma peça com chamada, explicação e ação. Identifique o caminho escolhido.",
+      "Meça as cores reais do exemplo ou da sua peça. Para o exemplo, use #203448 e #F4EFE5. Registre a relação.",
+      "Veja os três níveis no celular sem ampliar. Anote uma aprovação ou um ajuste necessário."
+    ],
+    "pronto": "o exemplo ou a peça está identificado, com relação medida e revisão dos três níveis",
+    "q": "A chamada está sobre uma foto com áreas claras e escuras. O que facilita verificar a leitura?",
+    "opcoes": [
+      "Medir somente a cor do canto mais escuro da foto",
+      "Diminuir as letras para caber longe do assunto",
+      "Colocar o texto sobre uma faixa de cor sólida"
+    ],
+    "correta": 2,
+    "observacao": "Os cartões ilustram diferença de contraste entre blocos gráficos. Não substituem a medição de cores nem um teste com texto real.",
+    "ex1": "Isa mede a dupla de cores antes de aplicá-la ao texto da peça.",
+    "ex2": "Célia lê a chamada pequena e percebe que a explicação precisa de mais tamanho.",
+    "calma": "O código com seis caracteres identifica uma cor. Copie exatamente no campo de cor; não é um comando de programação.",
+    "confira": "Separar três níveis de leitura e medir o contraste do texto com o fundo.",
+    "tarefa": "Faça a mensagem sobreviver ao tamanho pequeno",
+    "resumo": [
+      "Ordem: chamada, explicação e ação",
+      "Contraste: texto comum com alvo mínimo de 4,5 para 1",
+      "Uso: leitura no tamanho real do celular"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Filas e geração de imagens ficam fora desse tempo.",
+    "molde": "Material avaliado: exemplo da aula ou peça própria\nCor do texto:\nCor do fundo:\nRelação medida:\nChamada, explicação e ação legíveis sem ampliar?\nAprovação ou ajuste necessário:",
+    "cartoes": [
+      [
+        "A chamada está sobre uma foto com áreas claras e escuras. O que facilita verificar a leitura?",
+        "Colocar o texto sobre uma faixa de cor sólida"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Separar três níveis de leitura e medir o contraste do texto com o fundo."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "o exemplo ou a peça está identificado, com relação medida e revisão dos três níveis"
+      ]
+    ]
+  },
+  {
+    "titulo": "Escreva uma regra de fotografia que possa repetir",
+    "entrega": "definir luz, distância e evidência para uma imagem da marca",
+    "dor": "Filtros diferentes podem fazer a mesma oficina parecer vários negócios. Descreva as características que permanecem.",
+    "antes": "Aplicar um filtro diferente sempre que a imagem parecer simples.",
+    "depois": "Manter luz suave e textura visível, variando a distância com propósito.",
+    "campos": [
+      "Fixos: luz, textura e contexto",
+      "Variável: distância da câmera",
+      "Origem: foto real ou ilustração identificada"
+    ],
+    "passos": [
+      "Escreva três características fixas e uma variável permitida.",
+      "Escolha uma imagem e aponte onde cada característica aparece.",
+      "Identifique a origem e anote uma correção necessária ou nenhum ajuste."
+    ],
+    "pronto": "a regra foi aplicada a uma imagem e sua origem está identificada",
+    "q": "Qual material comprova um reparo realmente realizado?",
+    "opcoes": [
+      "Fotos reais da mesma peça, com contexto e autorização",
+      "Duas imagens geradas que imitam antes e depois",
+      "Uma ilustração com a marca aplicada no canto"
+    ],
+    "correta": 0,
+    "observacao": "O detalhe gerado mostra textura e pontos. Ele ensina o enquadramento, mas não serve como prova de um conserto realizado.",
+    "ex1": "Isa conserva a textura em vez de cobri-la com um efeito.",
+    "ex2": "Célia guarda fotos reais dos próprios trabalhos para sustentar uma apresentação do serviço.",
+    "calma": "Use a imagem didática para praticar análise. Para anunciar trabalho feito, reserve um registro real e autorizado.",
+    "confira": "Manter luz suave e textura visível, variando a distância com propósito.",
+    "tarefa": "Escreva uma regra de fotografia que possa repetir",
+    "resumo": [
+      "Fixos: luz, textura e contexto",
+      "Variável: distância da câmera",
+      "Origem: foto real ou ilustração identificada"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Filas e geração de imagens ficam fora desse tempo.",
+    "molde": "Projeto: Fio Claro ou minha marca\nAula: Escreva uma regra de fotografia que possa repetir\nFixos: luz, textura e contexto — <sua decisão>\nVariável: distância da câmera — <sua decisão>\nOrigem: foto real ou ilustração identificada — <sua decisão>\nEvidência salva: <arquivo ou anotação>\nAjuste: <próximo passo>",
+    "cartoes": [
+      [
+        "Qual material comprova um reparo realmente realizado?",
+        "Fotos reais da mesma peça, com contexto e autorização"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Manter luz suave e textura visível, variando a distância com propósito."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a regra foi aplicada a uma imagem e sua origem está identificada"
+      ]
+    ]
+  },
+  {
+    "titulo": "Use a IA para discutir três caminhos",
+    "entrega": "comparar três propostas de direção com critérios da marca",
+    "dor": "Uma resposta convincente pode trazer promessas inventadas. Dê contexto e peça opções que possam ser examinadas.",
+    "antes": "Crie a melhor marca do mundo e prove que ela vende.",
+    "depois": "Proponha três caminhos, preserve os pilares e indique limites observáveis.",
+    "campos": [
+      "Entrada: ficha, pilares e mapa",
+      "Comparação: quatro critérios iguais",
+      "Saída: uma direção escolhida com motivo"
+    ],
+    "passos": [
+      "Cole o contexto e o pedido no chat, ou escreva três propostas autorais.",
+      "Compare as três pelos mesmos quatro critérios. Registre a origem.",
+      "Escolha uma e anote o motivo e um ponto que ainda precisa de teste."
+    ],
+    "pronto": "há três propostas reais registradas e uma escolha explicada pelos critérios",
+    "q": "A IA sugere citar cem clientes satisfeitos sem nenhum dado. O que fazer?",
+    "opcoes": [
+      "Usar o número porque a resposta parece profissional",
+      "Retirar a afirmação e pedir apenas dados fornecidos",
+      "Trocar cem por cinquenta para parecer mais plausível"
+    ],
+    "correta": 1,
+    "observacao": "Isa compara três painéis físicos. A cena ilustra avaliação de alternativas; não reproduz uma resposta real de um chat.",
+    "ex1": "Isa recusa uma direção que pede uma produção impossível de repetir.",
+    "ex2": "Célia retira um resultado inventado antes de aprovar a proposta.",
+    "calma": "Sem acesso ao chat, escreva três propostas próprias. A comparação continua válida quando a origem fica clara.",
+    "confira": "Proponha três caminhos, preserve os pilares e indique limites observáveis.",
+    "tarefa": "Use a IA para discutir três caminhos",
+    "resumo": [
+      "Entrada: ficha, pilares e mapa",
+      "Comparação: quatro critérios iguais",
+      "Saída: uma direção escolhida com motivo"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Filas e geração de imagens ficam fora desse tempo.",
+    "molde": "Projeto: Fio Claro ou minha marca\nAula: Use a IA para discutir três caminhos\nEntrada: ficha, pilares e mapa — <sua decisão>\nComparação: quatro critérios iguais — <sua decisão>\nSaída: uma direção escolhida com motivo — <sua decisão>\nEvidência salva: <arquivo ou anotação>\nAjuste: <próximo passo>",
+    "cartoes": [
+      [
+        "A IA sugere citar cem clientes satisfeitos sem nenhum dado. O que fazer?",
+        "Retirar a afirmação e pedir apenas dados fornecidos"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Proponha três caminhos, preserve os pilares e indique limites observáveis."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "há três propostas reais registradas e uma escolha explicada pelos critérios"
+      ]
+    ]
+  },
+  {
+    "titulo": "Transforme a direção em um pedido de imagem",
+    "entrega": "gerar e salvar uma imagem ilustrativa com critérios conferíveis",
+    "dor": "Um pedido cheio de adjetivos deixa as decisões para o gerador. Descreva o assunto e o que precisa permanecer.",
+    "antes": "Uma marca artesanal incrível e cinematográfica.",
+    "depois": "Jaqueta azul, remendo cru, pontos ferrugem, luz suave e reparo inteiro visível.",
+    "campos": [
+      "Pedido: assunto, luz, composição e limites",
+      "Arquivo: imagem realmente gerada e salva",
+      "Revisão: detalhes conferidos antes de usar"
+    ],
+    "passos": [
+      "Copie o pedido e ajuste somente os elementos necessários ao seu caso.",
+      "Gere uma imagem na ferramenta disponível e salve o arquivo.",
+      "Abra a imagem, confira quatro critérios e anote uma correção ou aprovação."
+    ],
+    "pronto": "um arquivo real foi salvo, aberto e revisado pelos critérios",
+    "q": "O gerador cortou metade do remendo. Qual revisão é mais útil?",
+    "opcoes": [
+      "Pedir algo ainda mais bonito, sofisticado e artístico",
+      "Adicionar cinco estilos sem mencionar o problema",
+      "Pedir o remendo inteiro e preservar as demais escolhas"
+    ],
+    "correta": 2,
+    "observacao": "A imagem gerada mantém jaqueta, remendo, luz suave e espaço livre. Confira os detalhes visíveis; pequenas imperfeições ainda exigem revisão.",
+    "ex1": "Isa pede espaço acima porque pretende incluir uma chamada fora da imagem.",
+    "ex2": "Célia confere se o remendo inteiro aparece antes de aceitar o arquivo.",
+    "calma": "Se houver fila, cota ou falta de acesso, deixe a geração pendente. A prática exige um arquivo produzido, não apenas o texto do pedido.",
+    "confira": "Jaqueta azul, remendo cru, pontos ferrugem, luz suave e reparo inteiro visível.",
+    "tarefa": "Transforme a direção em um pedido de imagem",
+    "resumo": [
+      "Pedido: assunto, luz, composição e limites",
+      "Arquivo: imagem realmente gerada e salva",
+      "Revisão: detalhes conferidos antes de usar"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Filas e geração de imagens ficam fora desse tempo.",
+    "molde": "Crie uma imagem ilustrativa de uma jaqueta jeans azul com remendo cru retangular e pontos ferrugem, sobre fundo creme. Use luz lateral suave, mantenha o remendo inteiro visível e deixe espaço vazio acima. Sem letras, marcas ou alegações de serviço realizado. Preserve textura natural e proporções plausíveis.",
+    "cartoes": [
+      [
+        "O gerador cortou metade do remendo. Qual revisão é mais útil?",
+        "Pedir o remendo inteiro e preservar as demais escolhas"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Jaqueta azul, remendo cru, pontos ferrugem, luz suave e reparo inteiro visível."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "um arquivo real foi salvo, aberto e revisado pelos critérios"
+      ]
+    ]
+  },
+  {
+    "titulo": "Crie variedade preservando as âncoras",
+    "entrega": "produzir uma segunda imagem e compará-la com a primeira",
+    "dor": "Consistência não exige repetir o mesmo quadro. Escolha quais características permanecem e qual pode mudar.",
+    "antes": "Pedir uma imagem completamente diferente e esperar a mesma identidade.",
+    "depois": "Preservar quatro âncoras e variar somente a distância da câmera.",
+    "campos": [
+      "Âncoras: jaqueta, remendo, pontos e luz",
+      "Variável: distância da câmera",
+      "Decisão: aceitar ou corrigir com motivo"
+    ],
+    "passos": [
+      "Use a primeira imagem como referência e peça uma mudança de distância.",
+      "Gere e salve uma segunda imagem com nome diferente.",
+      "Compare as quatro âncoras e registre se aceita ou precisa corrigir."
+    ],
+    "pronto": "existem dois arquivos e uma comparação escrita das quatro âncoras",
+    "q": "A nova imagem está bonita, mas troca o remendo por um bordado. Como avaliar?",
+    "opcoes": [
+      "Como desvio de uma âncora que precisa ser corrigido",
+      "Como variação aprovada porque as cores permaneceram",
+      "Como resultado equivalente sem necessidade de registrar"
+    ],
+    "correta": 0,
+    "observacao": "Variação gerada a partir da imagem da aula 11: a câmera se aproxima. Compare tecido, remendo e pontos com a referência; a ferramenta pode alterar detalhes.",
+    "ex1": "Isa muda a distância e mantém o restante do pedido para entender a variação.",
+    "ex2": "Célia rejeita uma imagem que troca o tipo de reparo, mesmo com cores parecidas.",
+    "calma": "Se a ferramenta não aceitar referência, repita a descrição e registre essa limitação. Ainda será necessário produzir e comparar dois arquivos.",
+    "confira": "Preservar quatro âncoras e variar somente a distância da câmera.",
+    "tarefa": "Crie variedade preservando as âncoras",
+    "resumo": [
+      "Âncoras: jaqueta, remendo, pontos e luz",
+      "Variável: distância da câmera",
+      "Decisão: aceitar ou corrigir com motivo"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Filas e geração de imagens ficam fora desse tempo.",
+    "molde": "Projeto: Fio Claro ou minha marca\nAula: Crie variedade preservando as âncoras\nÂncoras: jaqueta, remendo, pontos e luz — <sua decisão>\nVariável: distância da câmera — <sua decisão>\nDecisão: aceitar ou corrigir com motivo — <sua decisão>\nEvidência salva: <arquivo ou anotação>\nAjuste: <próximo passo>",
+    "cartoes": [
+      [
+        "A nova imagem está bonita, mas troca o remendo por um bordado. Como avaliar?",
+        "Como desvio de uma âncora que precisa ser corrigido"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Preservar quatro âncoras e variar somente a distância da câmera."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "existem dois arquivos e uma comparação escrita das quatro âncoras"
+      ]
+    ]
+  },
+  {
+    "titulo": "Aplique as regras em três peças",
+    "entrega": "montar três aplicações simples com a mesma hierarquia",
+    "dor": "Um painel coerente pode falhar quando vira cartaz, convite e apresentação. Teste o sistema em usos diferentes.",
+    "antes": "Repetir a mesma peça três vezes, mudando apenas o tamanho.",
+    "depois": "Adaptar a informação de cada uso mantendo cor, letra, luz e hierarquia.",
+    "campos": [
+      "Peças: apresentação, convite e detalhe",
+      "Fixos: cor, letra, luz e hierarquia",
+      "Teste: cada peça precisa funcionar sozinha"
+    ],
+    "passos": [
+      "Crie três páginas no editor que já usa e escolha um propósito por página.",
+      "Aplique as regras e insira imagem, chamada e informação necessária.",
+      "Salve as três, veja no celular e registre uma correção ou aprovação por peça."
+    ],
+    "pronto": "três aplicações estão salvas e cada uma tem uma revisão registrada",
+    "q": "O convite está bonito, mas não diz o que fazer. O que falta?",
+    "opcoes": [
+      "Um filtro mais forte sobre a fotografia do reparo",
+      "Uma ação clara relacionada à avaliação da peça",
+      "Uma quarta cor para diferenciar das outras páginas"
+    ],
+    "correta": 1,
+    "observacao": "As peças físicas ilustram formatos e repetição visual. Estão sem texto; suas aplicações precisam incluir chamada e informação reais do exercício.",
+    "ex1": "Isa mantém a hierarquia enquanto adapta a informação de cada página.",
+    "ex2": "Célia verifica se o convite explica como pedir avaliação, sem criar contatos fictícios.",
+    "calma": "Comece com páginas simples. A prática avalia coerência e compreensão, não domínio de um programa de design.",
+    "confira": "Adaptar a informação de cada uso mantendo cor, letra, luz e hierarquia.",
+    "tarefa": "Aplique as regras em três peças",
+    "resumo": [
+      "Peças: apresentação, convite e detalhe",
+      "Fixos: cor, letra, luz e hierarquia",
+      "Teste: cada peça precisa funcionar sozinha"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Filas e geração de imagens ficam fora desse tempo.",
+    "molde": "Projeto: Fio Claro ou minha marca\nAula: Aplique as regras em três peças\nPeças: apresentação, convite e detalhe — <sua decisão>\nFixos: cor, letra, luz e hierarquia — <sua decisão>\nTeste: cada peça precisa funcionar sozinha — <sua decisão>\nEvidência salva: <arquivo ou anotação>\nAjuste: <próximo passo>",
+    "cartoes": [
+      [
+        "O convite está bonito, mas não diz o que fazer. O que falta?",
+        "Uma ação clara relacionada à avaliação da peça"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Adaptar a informação de cada uso mantendo cor, letra, luz e hierarquia."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "três aplicações estão salvas e cada uma tem uma revisão registrada"
+      ]
+    ]
+  },
+  {
+    "titulo": "Reúna o sistema em uma legenda de uso",
+    "entrega": "montar um documento que outra pessoa consiga consultar",
+    "dor": "Regras espalhadas em conversas se perdem. Um documento curto precisa mostrar escolhas, exemplos e limites.",
+    "antes": "Guardar decisões apenas em mensagens soltas e arquivos sem nome.",
+    "depois": "Reunir regras, exemplos, origens e versão num documento consultável.",
+    "campos": [
+      "Documento: núcleo, mapa, painel e aplicações",
+      "Controle: data, versão e responsável",
+      "Reuso: fixos da marca e variáveis por oferta"
+    ],
+    "passos": [
+      "Crie um documento com os cinco blocos e reúna o que produziu nas aulas.",
+      "Acrescente um exemplo aprovado e um rejeitado, ambos com motivo.",
+      "Registre versão e data. Abra as ligações e confira os arquivos citados."
+    ],
+    "pronto": "o documento reúne os blocos e os arquivos citados foram abertos",
+    "q": "A marca ganha uma segunda oferta. Qual adaptação preserva clareza?",
+    "opcoes": [
+      "Trocar toda a identidade sempre que surgir um serviço",
+      "Distinguir os serviços apenas por uma cor diferente",
+      "Manter regras úteis e nomear a oferta em cada peça"
+    ],
+    "correta": 2,
+    "observacao": "O fichário reúne paleta e referências. A foto solta que mostra as costas muda a posição do remendo: registre esse desvio como exemplo rejeitado, não como cópia fiel.",
+    "ex1": "Isa inclui um exemplo rejeitado para mostrar o limite da regra.",
+    "ex2": "Célia consegue distinguir conserto e ajuste pela informação, sem depender apenas da cor.",
+    "calma": "Não precisa diagramar um manual extenso. Títulos claros, exemplos e arquivos que abrem já permitem consultar o sistema.",
+    "confira": "Reunir regras, exemplos, origens e versão num documento consultável.",
+    "tarefa": "Reúna o sistema em uma legenda de uso",
+    "resumo": [
+      "Documento: núcleo, mapa, painel e aplicações",
+      "Controle: data, versão e responsável",
+      "Reuso: fixos da marca e variáveis por oferta"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Filas e geração de imagens ficam fora desse tempo.",
+    "molde": "Projeto: Fio Claro ou minha marca\nAula: Reúna o sistema em uma legenda de uso\nDocumento: núcleo, mapa, painel e aplicações — <sua decisão>\nControle: data, versão e responsável — <sua decisão>\nReuso: fixos da marca e variáveis por oferta — <sua decisão>\nEvidência salva: <arquivo ou anotação>\nAjuste: <próximo passo>",
+    "cartoes": [
+      [
+        "A marca ganha uma segunda oferta. Qual adaptação preserva clareza?",
+        "Manter regras úteis e nomear a oferta em cada peça"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Reunir regras, exemplos, origens e versão num documento consultável."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "o documento reúne os blocos e os arquivos citados foram abertos"
+      ]
+    ]
+  },
+  {
+    "titulo": "Teste o conjunto e planeje a próxima revisão",
+    "entrega": "conferir o projeto completo e definir o próximo teste",
+    "dor": "Terminar o documento não encerra o aprendizado. Verifique o que funciona e o que ainda é hipótese.",
+    "antes": "Declarar a marca pronta porque o painel parece bonito.",
+    "depois": "Conferir as entregas e corrigir quando necessário antes de compartilhar.",
+    "campos": [
+      "Entrega: painel, mapa, imagens, aplicações e legenda",
+      "Revisão: cinco critérios com estado explícito",
+      "Próximo ciclo: uma decisão e uma observação"
+    ],
+    "passos": [
+      "Abra as entregas e confira os cinco critérios em cada aplicação.",
+      "Corrija um problema observado e salve a nova versão. Se os critérios passarem, mantenha a versão e registre essa decisão.",
+      "Registre a decisão, os critérios conferidos, o próximo teste e qualquer pendência real."
+    ],
+    "pronto": "as entregas existem, a revisão está registrada e o próximo teste foi definido",
+    "q": "A legenda cita uma imagem que ainda não foi gerada. O projeto está concluído?",
+    "opcoes": [
+      "Não; a entrega ausente permanece pendente",
+      "Sim, porque o pedido de geração já está escrito",
+      "Sim, quando a intenção visual estiver bem explicada"
+    ],
+    "correta": 0,
+    "observacao": "Isa e Célia revisam o conjunto. A cena ilustra colaboração, sem representar teste real com público ou aprovação de uma marca existente.",
+    "ex1": "Isa escolhe corrigir a chamada que escondia o serviço antes de trocar a paleta.",
+    "ex2": "Célia registra que a conversa com clientes ainda será feita, sem inventar respostas.",
+    "calma": "Se houver pendência, registre o próximo passo concreto. Uma lista honesta permite retomar sem fingir que o teste aconteceu.",
+    "confira": "Conferir as entregas e corrigir quando necessário antes de compartilhar.",
+    "tarefa": "Teste o conjunto e planeje a próxima revisão",
+    "resumo": [
+      "Entrega: painel, mapa, imagens, aplicações e legenda",
+      "Revisão: cinco critérios com estado explícito",
+      "Próximo ciclo: uma decisão e uma observação"
+    ],
+    "tempo_pratica": "Reserve 10 minutos de trabalho ativo para este recorte. Filas e geração de imagens ficam fora desse tempo.",
+    "molde": "Entregas e arquivos abertos:\nMensagem, leitura, evidência, coerência e repetição: passa / ajustar / pendente\nProblema observado ou nenhum:\nDecisão: corrigir ou manter\nVersão salva:\nPróximo teste e observação:\nPendências reais:",
+    "cartoes": [
+      [
+        "A legenda cita uma imagem que ainda não foi gerada. O projeto está concluído?",
+        "Não; a entrega ausente permanece pendente"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Conferir as entregas e corrigir quando necessário antes de compartilhar."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "as entregas existem, a revisão está registrada e o próximo teste foi definido"
+      ]
+    ]
+  }
+]

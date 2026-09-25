@@ -1,0 +1,60 @@
+{
+  "id": "visual-dna-v62",
+  "titulo": "Visual DNA: Direção de Arte e Branding com IA v6.2",
+  "titulo_html": "Dê sentido <em>à sua marca</em>",
+  "curso_curto": "Visual DNA v6.2",
+  "kicker": "Direção de arte v6.2 · 5 módulos · 15 aulas",
+  "lead": "Transforme mensagem, referências e critérios em um sistema visual que você consegue explicar e repetir.",
+  "imagem_trilha": "assets/img/trilha.webp",
+  "alt_trilha": "Designer e costureira examinam um reparo aparente em uma oficina.",
+  "rodape": "Visual DNA v6.2 · INEMA.CLUB PRO · <a href=\"landing.html\">sobre o curso</a>",
+  "landing": "landing.html",
+  "glossario": true,
+  "modulos": [
+    {
+      "titulo": "Módulo 1 · Mensagem antes da aparência",
+      "resumo": "Defina a oferta e prepare uma escuta que distingue fatos de hipóteses.",
+      "aulas": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "titulo": "Módulo 2 · Conceito e referências",
+      "resumo": "Transforme pilares em escolhas e organize um painel comentado.",
+      "aulas": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "titulo": "Módulo 3 · Sistema visual com função",
+      "resumo": "Relacione cores, leitura e fotografia com o trabalho que precisam fazer.",
+      "aulas": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "titulo": "Módulo 4 · Direção assistida por IA",
+      "resumo": "Compare caminhos, gere uma imagem e teste uma variação com âncoras.",
+      "aulas": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "titulo": "Módulo 5 · Aplicações e legenda de uso",
+      "resumo": "Monte três peças, documente o sistema e revise o conjunto.",
+      "aulas": [
+        13,
+        14,
+        15
+      ]
+    }
+  ]
+}

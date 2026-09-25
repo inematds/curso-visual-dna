@@ -1,0 +1,17 @@
+[
+  {
+    "file": "galeria.html",
+    "overflow": false,
+    "images": true
+  },
+  {
+    "file": "modelo.html",
+    "overflow": false,
+    "images": true
+  },
+  {
+    "file": "landing.html",
+    "overflow": false,
+    "images": true
+  }
+]

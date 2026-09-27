@@ -1,3 +1,3 @@
-# Estado
+# Estado atual
 
-15 aulas aprovadas na auditoria (10/10), motor 26/26, leitura simulada >=9. Imagens Codex verificadas; aula 14 explicita desvio rejeitado. Ficha copiável, galeria, mapa e contraste 11,13:1. Publicação autorizada em andamento.
+Conteúdo 1.1.0, formato OSWork v6.2. Edições completas em PT/EN/ES. Tradução com GPT-6 Luna nativo Codex; sem API externa. Catálogos em i18n/, montagem offline em scripts/. Evidências em validacao-i18n.md.

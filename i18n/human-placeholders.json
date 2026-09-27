@@ -1,0 +1,1275 @@
+{
+  "model": "gpt-6-luna",
+  "execution": "native Codex subscription; no external API",
+  "purpose": "Human instructions inside escaped angle brackets; code placeholders remain unchanged",
+  "phrases": {
+    "0, 1 ou 2": {
+      "en": "0, 1, or 2",
+      "es": "0, 1 o 2"
+    },
+    "1 a 4": {
+      "en": "1 to 4",
+      "es": "1 a 4"
+    },
+    "3–5 arquivos": {
+      "en": "3–5 files",
+      "es": "3–5 archivos"
+    },
+    "A ou B": {
+      "en": "A or B",
+      "es": "A o B"
+    },
+    "A ou B e motivo": {
+      "en": "A or B, and why",
+      "es": "A o B y motivo"
+    },
+    "A/B/C": {
+      "en": "A/B/C",
+      "es": "A/B/C"
+    },
+    "J ou L": {
+      "en": "J or L",
+      "es": "J o L"
+    },
+    "aberto ou fechado": {
+      "en": "open or closed",
+      "es": "abierto o cerrado"
+    },
+    "acabamento": {
+      "en": "finish",
+      "es": "acabado"
+    },
+    "adjetivo": {
+      "en": "adjective",
+      "es": "adjetivo"
+    },
+    "ambiente ou enquadramento": {
+      "en": "setting or framing",
+      "es": "ambiente o encuadre"
+    },
+    "antes → depois, ou conferida sem erro": {
+      "en": "before → after, or checked with no error",
+      "es": "antes → después, o revisión sin errores"
+    },
+    "aparência": {
+      "en": "appearance",
+      "es": "apariencia"
+    },
+    "aparência observável": {
+      "en": "observable appearance",
+      "es": "apariencia observable"
+    },
+    "apresentar qual conteúdo": {
+      "en": "what content to present",
+      "es": "qué contenido presentar"
+    },
+    "aprovada ou revisar": {
+      "en": "approved or revise",
+      "es": "aprobada o revisar"
+    },
+    "aprovado ou revisar": {
+      "en": "approved or revise",
+      "es": "aprobado o revisar"
+    },
+    "aprovar, corrigir ou aguardar": {
+      "en": "approve, fix, or wait",
+      "es": "aprobar, corregir o esperar"
+    },
+    "arquivo": {
+      "en": "file",
+      "es": "archivo"
+    },
+    "arquivo aprovado": {
+      "en": "approved file",
+      "es": "archivo aprobado"
+    },
+    "arquivo autorizado": {
+      "en": "authorized file",
+      "es": "archivo autorizado"
+    },
+    "arquivo e clima": {
+      "en": "file and mood",
+      "es": "archivo y ambiente"
+    },
+    "arquivo e decisão": {
+      "en": "file and decision",
+      "es": "archivo y decisión"
+    },
+    "arquivo e duração": {
+      "en": "file and duration",
+      "es": "archivo y duración"
+    },
+    "arquivo e espaço": {
+      "en": "file and space",
+      "es": "archivo y espacio"
+    },
+    "arquivo e mensagem": {
+      "en": "file and message",
+      "es": "archivo y mensaje"
+    },
+    "arquivo e motivo": {
+      "en": "file and reason",
+      "es": "archivo y motivo"
+    },
+    "arquivo e papel": {
+      "en": "file and role",
+      "es": "archivo y función"
+    },
+    "arquivo e referência da interface": {
+      "en": "file and interface reference",
+      "es": "archivo y referencia de la interfaz"
+    },
+    "arquivo e revisão": {
+      "en": "file and review",
+      "es": "archivo y revisión"
+    },
+    "arquivo e uso": {
+      "en": "file and use",
+      "es": "archivo y uso"
+    },
+    "arquivo limpo ou pendente": {
+      "en": "clean or pending file",
+      "es": "archivo limpio o pendiente"
+    },
+    "arquivo ou ainda não gerado + motivo": {
+      "en": "file or not generated yet + reason",
+      "es": "archivo o aún no generado + motivo"
+    },
+    "arquivo ou anotação": {
+      "en": "file or note",
+      "es": "archivo o nota"
+    },
+    "arquivo ou foto pendente": {
+      "en": "file or photo pending",
+      "es": "archivo o foto pendiente"
+    },
+    "arquivo ou identificador": {
+      "en": "file or identifier",
+      "es": "archivo o identificador"
+    },
+    "arquivo ou pendente": {
+      "en": "file or pending",
+      "es": "archivo o pendiente"
+    },
+    "arquivo próprio": {
+      "en": "own file",
+      "es": "archivo propio"
+    },
+    "arquivo sem texto": {
+      "en": "file without text",
+      "es": "archivo sin texto"
+    },
+    "arquivo, modelo, revisão": {
+      "en": "file, model, review",
+      "es": "archivo, modelo, revisión"
+    },
+    "arquivo, tempo, ação": {
+      "en": "file, time, action",
+      "es": "archivo, tiempo, acción"
+    },
+    "arquivo, versão, revisão": {
+      "en": "file, version, review",
+      "es": "archivo, versión, revisión"
+    },
+    "arquivo/pendente": {
+      "en": "file/pending",
+      "es": "archivo/pendiente"
+    },
+    "arquivos": {
+      "en": "files",
+      "es": "archivos"
+    },
+    "arquivos e funções": {
+      "en": "files and purposes",
+      "es": "archivos y funciones"
+    },
+    "arquivos ou nenhum ainda": {
+      "en": "files or none yet",
+      "es": "archivos o ninguno todavía"
+    },
+    "arquivos ou pendentes": {
+      "en": "files or pending",
+      "es": "archivos o pendientes"
+    },
+    "atende ou revisar + motivo": {
+      "en": "meets criteria or revise + reason",
+      "es": "cumple o revisar + motivo"
+    },
+    "atende/revisar": {
+      "en": "meets criteria/revise",
+      "es": "cumple/revisar"
+    },
+    "atributos": {
+      "en": "attributes",
+      "es": "atributos"
+    },
+    "aula 3": {
+      "en": "lesson 3",
+      "es": "lección 3"
+    },
+    "ação real ou troca de foto": {
+      "en": "real action or photo swap",
+      "es": "acción real o cambio de foto"
+    },
+    "borda, textura e contato": {
+      "en": "edge, texture, and contact",
+      "es": "borde, textura y contacto"
+    },
+    "característica": {
+      "en": "feature",
+      "es": "característica"
+    },
+    "característica do produto": {
+      "en": "product feature",
+      "es": "característica del producto"
+    },
+    "característica visível": {
+      "en": "visible feature",
+      "es": "característica visible"
+    },
+    "características": {
+      "en": "features",
+      "es": "características"
+    },
+    "claro ou corrigir e motivo": {
+      "en": "clear or fix + reason",
+      "es": "claro o corregir + motivo"
+    },
+    "clima e ritmo": {
+      "en": "mood and pace",
+      "es": "ambiente y ritmo"
+    },
+    "cobertura, tecido, roupa": {
+      "en": "coverage, fabric, garment",
+      "es": "cobertura, tela, prenda"
+    },
+    "condição": {
+      "en": "condition",
+      "es": "condición"
+    },
+    "conferida": {
+      "en": "checked",
+      "es": "revisada"
+    },
+    "conferida ou pendente; não confundir com MP4": {
+      "en": "checked or pending; do not confuse with MP4",
+      "es": "revisada o pendiente; no confundir con MP4"
+    },
+    "conferir": {
+      "en": "check",
+      "es": "revisar"
+    },
+    "conferência": {
+      "en": "review",
+      "es": "revisión"
+    },
+    "configuração": {
+      "en": "setting",
+      "es": "configuración"
+    },
+    "confirmar na conta": {
+      "en": "confirm in the account",
+      "es": "confirmar en la cuenta"
+    },
+    "conhecidos ou a confirmar": {
+      "en": "known or to confirm",
+      "es": "conocidos o por confirmar"
+    },
+    "conta": {
+      "en": "account",
+      "es": "cuenta"
+    },
+    "continuidade ou semelhança": {
+      "en": "continuity or similarity",
+      "es": "continuidad o semejanza"
+    },
+    "contribuição ou excesso": {
+      "en": "contribution or excess",
+      "es": "aporte o exceso"
+    },
+    "copiar da conta": {
+      "en": "copy from the account",
+      "es": "copiar de la cuenta"
+    },
+    "copiar da tela": {
+      "en": "copy from the screen",
+      "es": "copiar de la pantalla"
+    },
+    "cor": {
+      "en": "color",
+      "es": "color"
+    },
+    "cor + grande": {
+      "en": "color + large",
+      "es": "color + grande"
+    },
+    "cor + média": {
+      "en": "color + medium",
+      "es": "color + mediano"
+    },
+    "cor + pequena": {
+      "en": "color + small",
+      "es": "color + pequeño"
+    },
+    "cores": {
+      "en": "colors",
+      "es": "colores"
+    },
+    "corte, volume, mistura": {
+      "en": "cut, volume, mix",
+      "es": "corte, volumen, mezcla"
+    },
+    "créditos": {
+      "en": "credits",
+      "es": "créditos"
+    },
+    "créditos exibidos": {
+      "en": "credits shown",
+      "es": "créditos mostrados"
+    },
+    "custo real de quatro tentativas": {
+      "en": "actual cost of four attempts",
+      "es": "costo real de cuatro intentos"
+    },
+    "dados": {
+      "en": "data",
+      "es": "datos"
+    },
+    "dados reais": {
+      "en": "real data",
+      "es": "datos reales"
+    },
+    "decisão": {
+      "en": "decision",
+      "es": "decisión"
+    },
+    "decisão para outra peça": {
+      "en": "decision for another piece",
+      "es": "decisión para otra pieza"
+    },
+    "defeito": {
+      "en": "defect",
+      "es": "defecto"
+    },
+    "defeito e momento, ou painel ilustrativo": {
+      "en": "defect and moment, or illustrative panel",
+      "es": "defecto y momento, o panel ilustrativo"
+    },
+    "defeito ou borda conferida": {
+      "en": "defect or checked edge",
+      "es": "defecto o borde revisado"
+    },
+    "demais características": {
+      "en": "other features",
+      "es": "demás características"
+    },
+    "demais condições": {
+      "en": "other conditions",
+      "es": "demás condiciones"
+    },
+    "descreva ou nenhum": {
+      "en": "describe or none",
+      "es": "describe o ninguno"
+    },
+    "descrever": {
+      "en": "describe",
+      "es": "describir"
+    },
+    "descrição": {
+      "en": "description",
+      "es": "descripción"
+    },
+    "detalhe": {
+      "en": "detail",
+      "es": "detalle"
+    },
+    "detalhes": {
+      "en": "details",
+      "es": "detalles"
+    },
+    "dia": {
+      "en": "day",
+      "es": "día"
+    },
+    "direção": {
+      "en": "direction",
+      "es": "dirección"
+    },
+    "direção + motivo": {
+      "en": "direction + reason",
+      "es": "dirección + motivo"
+    },
+    "distração específica": {
+      "en": "specific distraction",
+      "es": "distracción específica"
+    },
+    "dois sinais visíveis": {
+      "en": "two visible cues",
+      "es": "dos señales visibles"
+    },
+    "duas características": {
+      "en": "two features",
+      "es": "dos características"
+    },
+    "duas pistas": {
+      "en": "two clues",
+      "es": "dos pistas"
+    },
+    "duração e tipo": {
+      "en": "duration and type",
+      "es": "duración y tipo"
+    },
+    "elemento": {
+      "en": "element",
+      "es": "elemento"
+    },
+    "elemento + pista": {
+      "en": "element + clue",
+      "es": "elemento + pista"
+    },
+    "endereço": {
+      "en": "address",
+      "es": "dirección"
+    },
+    "escolha": {
+      "en": "choice",
+      "es": "elección"
+    },
+    "escolha e motivo": {
+      "en": "choice and reason",
+      "es": "elección y motivo"
+    },
+    "estado": {
+      "en": "status",
+      "es": "estado"
+    },
+    "estado observável": {
+      "en": "observable status",
+      "es": "estado observable"
+    },
+    "eu ou personagem inventada": {
+      "en": "me or an invented character",
+      "es": "yo o personaje inventado"
+    },
+    "evidência": {
+      "en": "evidence",
+      "es": "evidencia"
+    },
+    "evidência de melhora ou piora": {
+      "en": "evidence of improvement or decline",
+      "es": "evidencia de mejora o empeoramiento"
+    },
+    "exemplo A_sem_efeitos.mp4": {
+      "en": "example A_sem_efeitos.mp4",
+      "es": "ejemplo A_sem_efeitos.mp4"
+    },
+    "exemplo B_com_efeitos.mp4": {
+      "en": "example B_com_efeitos.mp4",
+      "es": "ejemplo B_com_efeitos.mp4"
+    },
+    "exigência conhecida ou a confirmar": {
+      "en": "known requirement or to confirm",
+      "es": "requisito conocido o por confirmar"
+    },
+    "explicação curta": {
+      "en": "short explanation",
+      "es": "explicación breve"
+    },
+    "ficha e autorização": {
+      "en": "sheet and permission",
+      "es": "ficha y autorización"
+    },
+    "fidelidade ou exploração": {
+      "en": "fidelity or exploration",
+      "es": "fidelidad o exploración"
+    },
+    "fonte": {
+      "en": "source",
+      "es": "fuente"
+    },
+    "fonte e sombra": {
+      "en": "source and shadow",
+      "es": "fuente y sombra"
+    },
+    "forma": {
+      "en": "shape",
+      "es": "forma"
+    },
+    "forma e detalhes": {
+      "en": "shape and details",
+      "es": "forma y detalles"
+    },
+    "forma que identifica o produto": {
+      "en": "shape that identifies the product",
+      "es": "forma que identifica el producto"
+    },
+    "formato": {
+      "en": "format",
+      "es": "formato"
+    },
+    "foto do produto": {
+      "en": "product photo",
+      "es": "foto del producto"
+    },
+    "foto e característica que interessa": {
+      "en": "photo and feature of interest",
+      "es": "foto y característica de interés"
+    },
+    "foto na galeria ou desenho no papel": {
+      "en": "photo in the gallery or drawing on paper",
+      "es": "foto en la galería o dibujo en papel"
+    },
+    "foto ou impressão": {
+      "en": "photo or printout",
+      "es": "foto o impresión"
+    },
+    "foto/desenho": {
+      "en": "photo/drawing",
+      "es": "foto/dibujo"
+    },
+    "função": {
+      "en": "purpose",
+      "es": "función"
+    },
+    "função e quadro": {
+      "en": "purpose and frame",
+      "es": "función y cuadro"
+    },
+    "funções": {
+      "en": "purposes",
+      "es": "funciones"
+    },
+    "gravação ou síntese": {
+      "en": "recording or synthesis",
+      "es": "grabación o síntesis"
+    },
+    "guardar": {
+      "en": "save",
+      "es": "guardar"
+    },
+    "hipótese": {
+      "en": "hypothesis",
+      "es": "hipótesis"
+    },
+    "identidade e paleta": {
+      "en": "identity and palette",
+      "es": "identidad y paleta"
+    },
+    "identificação": {
+      "en": "identification",
+      "es": "identificación"
+    },
+    "identificação das duas versões": {
+      "en": "identification of both versions",
+      "es": "identificación de las dos versiones"
+    },
+    "iguais": {
+      "en": "same",
+      "es": "iguales"
+    },
+    "instantes observados": {
+      "en": "observed moments",
+      "es": "instantes observados"
+    },
+    "inteiro ou refazer": {
+      "en": "whole or redo",
+      "es": "completo o rehacer"
+    },
+    "início e duração": {
+      "en": "start and duration",
+      "es": "inicio y duración"
+    },
+    "início e fim": {
+      "en": "start and end",
+      "es": "inicio y fin"
+    },
+    "início–fim": {
+      "en": "start–end",
+      "es": "inicio–fin"
+    },
+    "leia na ferramenta": {
+      "en": "read in the tool",
+      "es": "lee en la herramienta"
+    },
+    "limite": {
+      "en": "limit",
+      "es": "límite"
+    },
+    "links": {
+      "en": "links",
+      "es": "enlaces"
+    },
+    "lista": {
+      "en": "list",
+      "es": "lista"
+    },
+    "local e abertura conferida": {
+      "en": "location and opening confirmed",
+      "es": "lugar y apertura comprobada"
+    },
+    "manter ou desfazer": {
+      "en": "keep or undo",
+      "es": "mantener o deshacer"
+    },
+    "material": {
+      "en": "material",
+      "es": "material"
+    },
+    "material e característica": {
+      "en": "material and feature",
+      "es": "material y característica"
+    },
+    "material e objetivo": {
+      "en": "material and goal",
+      "es": "material y objetivo"
+    },
+    "medida": {
+      "en": "measurement",
+      "es": "medida"
+    },
+    "mensagem": {
+      "en": "message",
+      "es": "mensaje"
+    },
+    "menus selecionados": {
+      "en": "selected menus",
+      "es": "menús seleccionados"
+    },
+    "mesa e fundo": {
+      "en": "table and background",
+      "es": "mesa y fondo"
+    },
+    "motivo": {
+      "en": "reason",
+      "es": "motivo"
+    },
+    "mudança": {
+      "en": "change",
+      "es": "cambio"
+    },
+    "mudança ou tentativa desfeita": {
+      "en": "change or undone attempt",
+      "es": "cambio o intento deshecho"
+    },
+    "multiplicação": {
+      "en": "multiplication",
+      "es": "multiplicación"
+    },
+    "natural ou ajustar e motivo": {
+      "en": "natural or adjust + reason",
+      "es": "natural o ajustar + motivo"
+    },
+    "nenhuma ou lista": {
+      "en": "none or list",
+      "es": "ninguna o lista"
+    },
+    "nome": {
+      "en": "name",
+      "es": "nombre"
+    },
+    "nome atual": {
+      "en": "current name",
+      "es": "nombre actual"
+    },
+    "nome da foto": {
+      "en": "photo name",
+      "es": "nombre de la foto"
+    },
+    "nome da tela": {
+      "en": "screen name",
+      "es": "nombre de la pantalla"
+    },
+    "nome de imagem ou modelo da imagem não confirmado": {
+      "en": "image name or image model not confirmed",
+      "es": "nombre de imagen o modelo de imagen sin confirmar"
+    },
+    "nome e endereço": {
+      "en": "name and address",
+      "es": "nombre y dirección"
+    },
+    "nome e fonte": {
+      "en": "name and source",
+      "es": "nombre y fuente"
+    },
+    "nome e local": {
+      "en": "name and location",
+      "es": "nombre y lugar"
+    },
+    "nome na conta": {
+      "en": "name in the account",
+      "es": "nombre en la cuenta"
+    },
+    "nome observado ou ainda não usado": {
+      "en": "observed name or not used yet",
+      "es": "nombre observado o aún no usado"
+    },
+    "nome observado ou desconhecido": {
+      "en": "observed name or unknown",
+      "es": "nombre observado o desconocido"
+    },
+    "nome ou a escolher": {
+      "en": "name or to choose",
+      "es": "nombre o por elegir"
+    },
+    "nome ou desconhecido": {
+      "en": "name or unknown",
+      "es": "nombre o desconocido"
+    },
+    "nome ou pendente": {
+      "en": "name or pending",
+      "es": "nombre o pendiente"
+    },
+    "nome real": {
+      "en": "real name",
+      "es": "nombre real"
+    },
+    "nomes": {
+      "en": "names",
+      "es": "nombres"
+    },
+    "nomes ou pendentes": {
+      "en": "names or pending",
+      "es": "nombres o pendientes"
+    },
+    "nota": {
+      "en": "note",
+      "es": "nota"
+    },
+    "não usada ou configuração": {
+      "en": "not used or setting",
+      "es": "no usada o configuración"
+    },
+    "número": {
+      "en": "number",
+      "es": "número"
+    },
+    "número e função": {
+      "en": "number and purpose",
+      "es": "número y función"
+    },
+    "número possível": {
+      "en": "possible number",
+      "es": "número posible"
+    },
+    "o que ainda falta ou nenhum": {
+      "en": "what is still missing or none",
+      "es": "qué falta todavía o ninguno"
+    },
+    "o que consigo ler": {
+      "en": "what I can read",
+      "es": "qué puedo leer"
+    },
+    "o que ensina": {
+      "en": "what it teaches",
+      "es": "qué enseña"
+    },
+    "o que falta": {
+      "en": "what is missing",
+      "es": "qué falta"
+    },
+    "o que melhorou ou piorou": {
+      "en": "what improved or got worse",
+      "es": "qué mejoró o empeoró"
+    },
+    "o que precisa ficar claro": {
+      "en": "what needs to be clear",
+      "es": "qué debe quedar claro"
+    },
+    "o que reconheço": {
+      "en": "what I recognize",
+      "es": "qué reconozco"
+    },
+    "o que vi": {
+      "en": "what I saw",
+      "es": "qué vi"
+    },
+    "objeto": {
+      "en": "object",
+      "es": "objeto"
+    },
+    "objeto apagado, ambiente, estilo": {
+      "en": "erased object, setting, style",
+      "es": "objeto borrado, ambiente, estilo"
+    },
+    "objeto e cor": {
+      "en": "object and color",
+      "es": "objeto y color"
+    },
+    "observação": {
+      "en": "observation",
+      "es": "observación"
+    },
+    "observação limitada": {
+      "en": "limited observation",
+      "es": "observación limitada"
+    },
+    "observação ou pendente": {
+      "en": "observation or pending",
+      "es": "observación o pendiente"
+    },
+    "observações": {
+      "en": "observations",
+      "es": "observaciones"
+    },
+    "onde aparece": {
+      "en": "where it appears",
+      "es": "dónde aparece"
+    },
+    "opcional, status real": {
+      "en": "optional, actual status",
+      "es": "opcional, estado real"
+    },
+    "operação": {
+      "en": "operation",
+      "es": "operación"
+    },
+    "operações realizadas": {
+      "en": "operations performed",
+      "es": "operaciones realizadas"
+    },
+    "opção da conta": {
+      "en": "account option",
+      "es": "opción de la cuenta"
+    },
+    "opções reais": {
+      "en": "actual options",
+      "es": "opciones reales"
+    },
+    "origem autorizada": {
+      "en": "authorized source",
+      "es": "origen autorizado"
+    },
+    "origem e situação": {
+      "en": "source and status",
+      "es": "origen y situación"
+    },
+    "ou nenhuma": {
+      "en": "or none",
+      "es": "o ninguno"
+    },
+    "outro termo, sem repetir decisão": {
+      "en": "another term, without repeating the decision",
+      "es": "otro término, sin repetir la decisión"
+    },
+    "padrão": {
+      "en": "pattern",
+      "es": "patrón"
+    },
+    "palavras, pausas, ruído": {
+      "en": "words, pauses, noise",
+      "es": "palabras, pausas, ruido"
+    },
+    "parado ou um movimento": {
+      "en": "still or one movement",
+      "es": "quieto o un movimiento"
+    },
+    "parte": {
+      "en": "part",
+      "es": "parte"
+    },
+    "pasta": {
+      "en": "folder",
+      "es": "carpeta"
+    },
+    "pedido, referência e formato": {
+      "en": "request, reference, and format",
+      "es": "pedido, referencia y formato"
+    },
+    "pequena mudança": {
+      "en": "small change",
+      "es": "cambio pequeño"
+    },
+    "percurso": {
+      "en": "path",
+      "es": "recorrido"
+    },
+    "peça importante": {
+      "en": "important piece",
+      "es": "pieza importante"
+    },
+    "peça ou fonte separada": {
+      "en": "piece or separate source",
+      "es": "pieza o fuente separada"
+    },
+    "planejamento de seis quadros/pendente": {
+      "en": "six-frame plan/pending",
+      "es": "plan de seis cuadros/pendiente"
+    },
+    "pontos ou trechos": {
+      "en": "points or segments",
+      "es": "puntos o fragmentos"
+    },
+    "posição com espaço": {
+      "en": "position with space",
+      "es": "posición con espacio"
+    },
+    "posição e espaço livre": {
+      "en": "position and clear space",
+      "es": "posición y espacio libre"
+    },
+    "preencher": {
+      "en": "fill in",
+      "es": "completar"
+    },
+    "preencher após gerar": {
+      "en": "fill in after generating",
+      "es": "completar después de generar"
+    },
+    "problema": {
+      "en": "problem",
+      "es": "problema"
+    },
+    "problema e correção": {
+      "en": "problem and fix",
+      "es": "problema y corrección"
+    },
+    "problema estrutural, se houver": {
+      "en": "structural problem, if any",
+      "es": "problema estructural, si lo hay"
+    },
+    "produto, sombra e quadro": {
+      "en": "product, shadow, and frame",
+      "es": "producto, sombra y cuadro"
+    },
+    "proporção": {
+      "en": "proportion",
+      "es": "proporción"
+    },
+    "proposta salva ou pendente": {
+      "en": "proposal saved or pending",
+      "es": "propuesta guardada o pendiente"
+    },
+    "próximo passo": {
+      "en": "next step",
+      "es": "próximo paso"
+    },
+    "quadrado, vertical ou horizontal": {
+      "en": "square, vertical, or horizontal",
+      "es": "cuadrado, vertical u horizontal"
+    },
+    "quais": {
+      "en": "which ones",
+      "es": "cuáles"
+    },
+    "qual": {
+      "en": "which one",
+      "es": "cuál"
+    },
+    "qual e limite": {
+      "en": "which one and limit",
+      "es": "cuál y límite"
+    },
+    "qual ou nenhum observado": {
+      "en": "which one or none observed",
+      "es": "cuál o ninguno observado"
+    },
+    "quem": {
+      "en": "who",
+      "es": "quién"
+    },
+    "quem vai olhar": {
+      "en": "who will look",
+      "es": "quién va a mirar"
+    },
+    "reabertura conferida": {
+      "en": "reopening confirmed",
+      "es": "reapertura comprobada"
+    },
+    "reais": {
+      "en": "real",
+      "es": "reales"
+    },
+    "real": {
+      "en": "real",
+      "es": "real"
+    },
+    "real ou virtual": {
+      "en": "real or virtual",
+      "es": "real o virtual"
+    },
+    "recorte": {
+      "en": "crop",
+      "es": "recorte"
+    },
+    "recorte ou nova tomada": {
+      "en": "crop or new take",
+      "es": "recorte o nueva toma"
+    },
+    "recorte, nível e fades": {
+      "en": "crop, level, and fades",
+      "es": "recorte, nivel y fades"
+    },
+    "referência": {
+      "en": "reference",
+      "es": "referencia"
+    },
+    "referência própria": {
+      "en": "own reference",
+      "es": "referencia propia"
+    },
+    "registrar": {
+      "en": "record",
+      "es": "registrar"
+    },
+    "registro": {
+      "en": "record",
+      "es": "registro"
+    },
+    "região": {
+      "en": "region",
+      "es": "región"
+    },
+    "relação com o objetivo": {
+      "en": "connection to the goal",
+      "es": "relación con el objetivo"
+    },
+    "restante": {
+      "en": "rest",
+      "es": "resto"
+    },
+    "restante da imagem": {
+      "en": "rest of the image",
+      "es": "resto de la imagen"
+    },
+    "resultado": {
+      "en": "result",
+      "es": "resultado"
+    },
+    "resultado verificável": {
+      "en": "verifiable result",
+      "es": "resultado verificable"
+    },
+    "revisão": {
+      "en": "review",
+      "es": "revisión"
+    },
+    "saída": {
+      "en": "output",
+      "es": "salida"
+    },
+    "segundos": {
+      "en": "seconds",
+      "es": "segundos"
+    },
+    "sensação e mensagem": {
+      "en": "feeling and message",
+      "es": "sensación y mensaje"
+    },
+    "sim ou ajustar": {
+      "en": "yes or adjust",
+      "es": "sí o ajustar"
+    },
+    "sim ou não": {
+      "en": "yes or no",
+      "es": "sí o no"
+    },
+    "sim ou pendente": {
+      "en": "yes or pending",
+      "es": "sí o pendiente"
+    },
+    "sim ou refazer": {
+      "en": "yes or redo",
+      "es": "sí o rehacer"
+    },
+    "sim ou trecho": {
+      "en": "yes or segment",
+      "es": "sí o fragmento"
+    },
+    "sinal": {
+      "en": "signal",
+      "es": "señal"
+    },
+    "situação": {
+      "en": "situation",
+      "es": "situación"
+    },
+    "soma aceita na conta": {
+      "en": "total accepted by the account",
+      "es": "suma aceptada en la cuenta"
+    },
+    "somente se necessárias": {
+      "en": "only if needed",
+      "es": "solo si hace falta"
+    },
+    "somente três efeitos": {
+      "en": "three effects only",
+      "es": "solo tres efectos"
+    },
+    "sua decisão": {
+      "en": "your decision",
+      "es": "tu decisión"
+    },
+    "sua versão": {
+      "en": "your version",
+      "es": "tu versión"
+    },
+    "suaves ou marcadas": {
+      "en": "soft or pronounced",
+      "es": "suaves o marcadas"
+    },
+    "tela": {
+      "en": "screen",
+      "es": "pantalla"
+    },
+    "tela atual": {
+      "en": "current screen",
+      "es": "pantalla actual"
+    },
+    "tela e limite": {
+      "en": "screen and limit",
+      "es": "pantalla y límite"
+    },
+    "tempo": {
+      "en": "time",
+      "es": "tiempo"
+    },
+    "tempos": {
+      "en": "times",
+      "es": "tiempos"
+    },
+    "texto": {
+      "en": "text",
+      "es": "texto"
+    },
+    "texto ensaiado": {
+      "en": "rehearsed text",
+      "es": "texto ensayado"
+    },
+    "texto exato": {
+      "en": "exact text",
+      "es": "texto exacto"
+    },
+    "texto ou imagem": {
+      "en": "text or image",
+      "es": "texto o imagen"
+    },
+    "trecho ou nenhum": {
+      "en": "segment or none",
+      "es": "fragmento o ninguno"
+    },
+    "três arquivos e ações": {
+      "en": "three files and actions",
+      "es": "tres archivos y acciones"
+    },
+    "três arquivos ou desenhos": {
+      "en": "three files or drawings",
+      "es": "tres archivos o dibujos"
+    },
+    "três características": {
+      "en": "three features",
+      "es": "tres características"
+    },
+    "três frases": {
+      "en": "three sentences",
+      "es": "tres frases"
+    },
+    "técnica + dez minutos": {
+      "en": "technique + ten minutes",
+      "es": "técnica + diez minutos"
+    },
+    "um movimento": {
+      "en": "one movement",
+      "es": "un movimiento"
+    },
+    "um problema": {
+      "en": "one problem",
+      "es": "un problema"
+    },
+    "uma ação": {
+      "en": "one action",
+      "es": "una acción"
+    },
+    "uma das cinco": {
+      "en": "one of the five",
+      "es": "una de las cinco"
+    },
+    "uma decisão": {
+      "en": "one decision",
+      "es": "una decisión"
+    },
+    "uma escolha": {
+      "en": "one choice",
+      "es": "una elección"
+    },
+    "uma frase": {
+      "en": "one sentence",
+      "es": "una frase"
+    },
+    "uma lacuna": {
+      "en": "one gap",
+      "es": "un espacio en blanco"
+    },
+    "uma mudança": {
+      "en": "one change",
+      "es": "un cambio"
+    },
+    "uma parte": {
+      "en": "one part",
+      "es": "una parte"
+    },
+    "uma tarefa": {
+      "en": "one task",
+      "es": "una tarea"
+    },
+    "usadas": {
+      "en": "used",
+      "es": "usadas"
+    },
+    "uso": {
+      "en": "use",
+      "es": "uso"
+    },
+    "valor": {
+      "en": "value",
+      "es": "valor"
+    },
+    "valor da conta": {
+      "en": "account value",
+      "es": "valor de la cuenta"
+    },
+    "valor observado ou desconhecido": {
+      "en": "observed value or unknown",
+      "es": "valor observado o desconocido"
+    },
+    "valores": {
+      "en": "values",
+      "es": "valores"
+    },
+    "valores aceitos": {
+      "en": "accepted values",
+      "es": "valores aceptados"
+    },
+    "valores da conta": {
+      "en": "account values",
+      "es": "valores de la cuenta"
+    },
+    "valores disponíveis ou não disponíveis": {
+      "en": "available or unavailable values",
+      "es": "valores disponibles o no disponibles"
+    },
+    "valores observados": {
+      "en": "observed values",
+      "es": "valores observados"
+    },
+    "valores usados": {
+      "en": "values used",
+      "es": "valores usados"
+    },
+    "variável": {
+      "en": "variable",
+      "es": "variable"
+    },
+    "versão final": {
+      "en": "final version",
+      "es": "versión final"
+    },
+    "versão, modo, entradas, custo": {
+      "en": "version, mode, inputs, cost",
+      "es": "versión, modo, entradas, costo"
+    },
+    "área": {
+      "en": "area",
+      "es": "área"
+    }
+  }
+}

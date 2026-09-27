@@ -1,0 +1,37 @@
+[
+  {
+    "check": "static",
+    "exit_code": 0,
+    "log": "/home/nmaldaner/projetos/curso-visual-dna/context/i18n-static.log"
+  },
+  {
+    "check": "motor-pt",
+    "exit_code": 0,
+    "log": "/home/nmaldaner/projetos/curso-visual-dna/context/i18n-motor-pt.log"
+  },
+  {
+    "check": "motor-en",
+    "exit_code": 0,
+    "log": "/home/nmaldaner/projetos/curso-visual-dna/context/i18n-motor-en.log"
+  },
+  {
+    "check": "audit-en",
+    "exit_code": 0,
+    "log": "/home/nmaldaner/projetos/curso-visual-dna/context/i18n-audit-en.log"
+  },
+  {
+    "check": "motor-es",
+    "exit_code": 0,
+    "log": "/home/nmaldaner/projetos/curso-visual-dna/context/i18n-motor-es.log"
+  },
+  {
+    "check": "audit-es",
+    "exit_code": 0,
+    "log": "/home/nmaldaner/projetos/curso-visual-dna/context/i18n-audit-es.log"
+  },
+  {
+    "check": "browser",
+    "exit_code": 0,
+    "log": "/home/nmaldaner/projetos/curso-visual-dna/context/i18n-browser.log"
+  }
+]

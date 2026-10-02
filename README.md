@@ -23,3 +23,11 @@ node scripts/check_i18n_browser.cjs . /tmp/curso-i18n-checks
 Requer Python/BeautifulSoup e os pacotes locais Babel/Playwright indicados nos scripts. A montagem não chama modelos nem redes. Mudanças na fonte PT exigem revisar os catálogos `i18n/`. O motor oficial `assets/curso.js` é preservado; a proteção de importação é gerada em `assets/curso-i18n.js` e nas edições traduzidas.
 
 Evidências em `context/validacao-i18n.md`. Revisões por agentes são simuladas, não testes com alunos reais.
+
+<!-- inema-backlink:v1 -->
+## Mais no INEMA.CLUB
+
+- [Ficha completa deste curso](https://www.inema.club/cursos/296-visual-dna-direcao-de-arte-e-branding-com-ia-v6-2/)
+- [Guia: como aprender inteligência artificial](https://www.inema.club/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.inema.club/cursos/)
+<!-- /inema-backlink:v1 -->
